@@ -1,9 +1,13 @@
 # Analysis of Algorithms
 <!-- .slide: data-auto-animate -->
 
-Dr. David Greenwood
+Dr Robert Blair
 
-david.greenwood@uea.ac.uk
+r.blair@uea.ac.uk
+
+Room Sci 2.19
+
+author: david.greenwood@uea.ac.uk
 
 Room SCI 2.16a
 
